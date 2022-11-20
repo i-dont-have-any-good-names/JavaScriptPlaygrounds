@@ -1,0 +1,2 @@
+# JavaScriptPlaygrounds
+Practice basically :)
