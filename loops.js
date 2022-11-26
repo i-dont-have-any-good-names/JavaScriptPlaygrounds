@@ -22,3 +22,10 @@ if(k == false) {
 };
 
 console.warn("finished");
+
+function hello(loga, qfa){
+    console.log(loga)
+    console.log(qfa)
+}
+
+hello("a", true)
